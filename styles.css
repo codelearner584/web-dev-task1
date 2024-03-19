@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center; /* Center the content */
+    border: 2px solid #ccc; /* Add border line */
+    border-radius: 10px; /* Add rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+}
+
+
+
+.company-name {
+    display: inline-block;
+    background-color: purple;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.company-name h1 {
+    margin: 0;
+    color: #fff;
+}
+
+.company-description {
+    margin-top: 10px;
+}
+
+.line-break {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+.management-team {
+    display: inline-block;
+    background-color: purple;
+    padding: 1px;
+    border-radius: 4px;
+    margin-bottom: 20px; /* Add space below */
+    margin-top: 10px; /* Add space below */
+    
+}
+
+.management-team h3 {
+    margin: 0;
+    color: #fff;
+   
+}
+
+
+.development-team {
+    display: inline-block;
+    background-color: purple;
+    padding: 1px;
+    border-radius: 4px;
+    margin-bottom: 20px; /* Add space below */
+    margin-top: 20px; /* Add space below */
+}
+
+.development-team h3 {
+    margin: 0;
+    color: #fff;
+   
+}
+
+
+.marketing-team {
+    display: inline-block;
+    background-color: purple;
+    padding: 1px;
+    border-radius: 4px;
+    margin-bottom: 20px; /* Add space below */
+    margin-top: 20px; /* Add space below */
+}
+
+.marketing-team h3 {
+    margin: 0;
+    color: #fff;
+   
+}
+
+
+
+
+
+.person {
+    display: inline-block;
+    margin: 0 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.person img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+    .person h4, .person p {
+    margin: 0;
+
+}
+
+/* The CSS from previous code remains unchanged */
+
+
+.person p {
+    margin: 0;
+    color: purple;
+}
+
+.person {
+    margin-bottom: 20px; /* Add space between each person's profile */
+}
+
+
+
+
